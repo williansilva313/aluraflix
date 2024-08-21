@@ -13,6 +13,14 @@ header {
     color: rgb(42, 122, 228);
 }
 
+.logo { 
+    position: absolute; 
+    top: 20px; /* Adjust the top position as needed */ 
+    right: 20px; /* Adjust the right position as needed */ 
+    width: 200px; /* Set the desired width of the logo */ 
+    height: auto; /* This will maintain the aspect ratio of the logo */ 
+  } 
+
 .chamada {
     background: rgb(184, 156, 213);
     padding-bottom: 80px;
