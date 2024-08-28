@@ -15,9 +15,9 @@ header {
 
 .logo { 
     position: absolute; 
-    top: 20px; /* Adjust the top position as needed */ 
+    top: 16px; /* Adjust the top position as needed */ 
     right: 20px; /* Adjust the right position as needed */ 
-    width: 200px; /* Set the desired width of the logo */ 
+    width: auto; /* Set the desired width of the logo */ 
     height: auto; /* This will maintain the aspect ratio of the logo */ 
   } 
 
